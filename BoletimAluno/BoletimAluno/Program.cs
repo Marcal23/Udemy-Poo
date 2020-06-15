@@ -4,7 +4,7 @@ namespace BoletimAluno
 {
     class Program
     {
-        static void Main(string[] args)
+       static void Main(string[] args)
         {
             Aluno aluno = new Aluno();
             Console.Write("Nome do aluno: ");
